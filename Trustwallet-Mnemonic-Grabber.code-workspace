@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "fiat-to-crypto",
+			"path": "../../fiat-to-crypto"
+		}
+	],
+	"settings": {}
+}
